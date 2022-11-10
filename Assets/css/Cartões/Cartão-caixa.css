@@ -1,0 +1,24 @@
+.cartao__caixa{
+    border: none;
+    box-shadow: 0 0 5px black;
+    width: 340px;
+    margin-right: 6rem;
+    margin-top: 5rem;
+    align-content: center;
+}
+
+.cartao__caixa:nth-child(3n){
+    margin-right: 0;
+}
+
+@media screen and (min-width:768px) {
+    .cartao__caixa{
+        margin-right: 0;
+    }
+}
+
+@media screen and (min-width:992px) {
+    .cartao__caixa{
+        margin-right: 6rem;
+    }
+}

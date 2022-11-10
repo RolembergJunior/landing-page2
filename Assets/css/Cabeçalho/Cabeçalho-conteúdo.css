@@ -1,0 +1,17 @@
+.cabecalho__conteudo{
+    display: flex;
+    flex-wrap: wrap;
+    width: 389px;
+}
+
+@media screen and (min-width:768px) {
+    .cabecalho__conteudo{
+        align-self: center;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    .cabecalho__conteudo{
+        align-items: flex-start;
+    }
+}

@@ -1,0 +1,19 @@
+.cabecalho{
+    background-color: var(--cor-cabecalho);
+    display: flex;
+    padding: 10rem 7rem;
+}
+
+@media screen and (min-width:768px) {
+    .cabecalho{
+        justify-content: center;
+        flex-direction: column;
+    }
+}
+
+@media screen and (min-width:992px) {
+    .cabecalho{
+        justify-content: space-between;
+        flex-direction: row;
+    }
+}

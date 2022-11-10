@@ -1,0 +1,5 @@
+.imagem__cabecalho{
+    position: relative;
+    background-image: url(../../img/Imagem-Cabeçalho.png);
+    width: 500px;
+}

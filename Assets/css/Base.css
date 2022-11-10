@@ -1,0 +1,28 @@
+:root{
+    --cor-cabecalho:#D7D5FF;
+    --cor-botao: #6C63FF;
+    --cor-letra: #fdfdfd;
+    --branco-leve: #fdfdfd;
+    --cor-da-borda: #282828;
+    --cor-cartao-1: #FF6363;
+    --cor-cartao-2: #63ECFF;
+    --cor-cartao-3: #F363FF;
+    --cor-cartao-4: #63FF73;
+    --cor-cartao-5: #FFDD63;
+    --cor-cartao-6: #6663FF;
+    --background-rodape: #D7D4FF;
+    --azul-claro: #63ECFF;
+
+}
+
+.botao{
+    background: var(--cor-botao);
+    color: var(--branco-leve);
+    transition: 500ms;
+
+}
+
+.botao:hover{
+    cursor: pointer;
+    background: var(--azul-claro);
+}

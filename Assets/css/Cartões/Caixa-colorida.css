@@ -1,0 +1,36 @@
+.caixa__colorida-1{
+    background-color: var(--cor-cartao-1);
+    width: 340px;
+    height: 222px;
+}
+
+.caixa__colorida-2{
+    background-color: var(--cor-cartao-2);
+    width: 340px;
+    height: 222px;
+}
+
+.caixa__colorida-3{
+    background-color: var(--cor-cartao-3);
+    width: 340px;
+    height: 222px;
+}
+
+.caixa__colorida-4{
+    background-color: var(--cor-cartao-4);
+    width: 340px;
+    height: 222px;
+}
+
+.caixa__colorida-5{
+    background-color: var(--cor-cartao-5);
+    width: 340px;
+    height: 222px;
+}
+
+.caixa__colorida-6{
+    background-color: var(--cor-cartao-6);
+    width: 340px;
+    height: 222px;
+}
+

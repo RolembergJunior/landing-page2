@@ -1,0 +1,14 @@
+.itens__formulario{
+    border: none;
+    border-radius: 5px;
+    padding-left: 2rem;
+    margin-bottom: 2rem;
+    width: 470px;
+    height: 65px;
+    
+}
+
+#mensagem{
+    text-align: start;
+    height: 165px;
+}
